@@ -1,0 +1,6 @@
+# Example app-ads.txt file
+# Declare your authorized sellers and resellers for ad inventory
+
+google.com, pub-6733489022435448, DIRECT, f08c47fec0942fa0
+
+# Add additional ad networks or platforms as needed
